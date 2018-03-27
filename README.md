@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Anonymous-Monk/ApiHtml/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](itms-services://?action=download-manifest&url=https://gitee.com/aws10086/ApiHome/raw/master/manifest.plist) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -25,8 +25,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [下载地址](itms-services://?action=download-manifest&url=https://gitee.com/aws10086/ApiHome/raw/master/manifest.plist).
 
 ### Jekyll Themes
 
