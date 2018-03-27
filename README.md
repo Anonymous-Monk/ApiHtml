@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](itms-services://?action=download-manifest&url=https://gitee.com/aws10086/ApiHome/raw/master/manifest.plist).
+For more details see [下载地址](itms-services://?action=download-manifest&url=https://gitee.com/aws10086/ApiHome/raw/master/manifest.plist).
 
 ### Jekyll Themes
 
